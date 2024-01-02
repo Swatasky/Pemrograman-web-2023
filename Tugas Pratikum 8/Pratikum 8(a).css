@@ -1,0 +1,41 @@
+body{
+    flex-direction: row;
+    display: flex;
+    margin: 0;
+}
+
+#container{
+    display: flex;
+    flex: 1;
+}
+
+nav{
+    background: green;
+    height: 367px;
+    width: 200px;
+    text-align: center;
+}
+
+#Tugas>header,footer{
+    height: 9vh;
+    width: 570px;
+    background: pink;
+    text-align: center;    
+}
+
+.container2{
+    display: flex;
+    flex: 1;
+}
+
+article{
+    width: 400px;
+    height: 236px;
+    text-align: center;   
+}
+
+aside{
+    background: aqua;
+    width: 170px;
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Picker</title>
+</head>
+<script>
+    function image() {
+        let pilih = document.getElementById("gambar").value;
+        let gambarpilih = document.getElementById("gambarpilih");
+
+        if (pilih == "image 1") {
+            gambarpilih.src = "IMG/img1.JPG";
+            alert("ini foto pertama");
+        } else if (pilih == "image 2") {
+            gambarpilih.src = "IMG/img2.JPG";
+            alert("ini foto kedua");
+        } else if (pilih == "image 3") {
+            gambarpilih.src = "IMG/img3.jpg";
+            alert("ini foto ketiga");
+        } else if (pilih == "image 4") {
+            gambarpilih.src = "IMG/img6.JPG";
+            alert("ini foto keempat");
+        } else if (pilih == "image 5") {
+            gambarpilih.src = "IMG/img4.JPG";
+            alert("ini foto kelima");
+        } else if (pilih == "image 6") {
+            gambarpilih.src = "IMG/img5.JPG";
+            alert("ini foto keenam");
+        } else if (pilih == "image 7") {
+            gambarpilih.src = "IMG/img7.JPG";
+            alert("ini foto ketujuh");
+        } else if (pilih == "image 8") {
+            gambarpilih.src = "IMG/img8.jpg";
+            alert("ini foto kedelapan");    
+        }
+    }
+</script>
+<body>
+    <label for="gambar">Pilih Gambar yang di inginkan:</label>
+    <select id="gambar" onchange="image()">
+        <option id="">image 1</option>
+        <option id="img2">image 2</option>
+        <option id="img3">image 3</option>
+        <option id="img4">image 4</option>
+        <option id="img5">image 5</option>
+        <option id="img6">image 6</option>
+        <option id="img7">image 7</option>
+        <option id="img8">image 8</option>
+    </select>
+    <br />
+
+    <img id="gambarpilih" width="300" style="margin-top: 20px;"/>
+
+</body>
+</html>

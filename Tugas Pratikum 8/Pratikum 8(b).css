@@ -1,0 +1,52 @@
+body{
+        flex-direction: row;
+        display: flex;
+        background-color: cornsilk;
+}
+
+#container>header,footer{
+        height: 9vh;
+        width: 580px;
+        background-color: pink;
+        justify-content: space-around;
+        margin: 10px;
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+}
+
+.container2{
+        display: flex;
+        flex: 1;
+        justify-content: space-around;
+}
+
+article{
+        width: 400px;
+        height: 250px;
+        background: aquamarine;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: end;
+}
+
+aside{
+        background: peachpuff;
+        width: 150px;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+}
+
+.Me{
+        display: flex;
+        gap: 10px;
+}
+
+.Me img{
+        width: 100px;    
+}
