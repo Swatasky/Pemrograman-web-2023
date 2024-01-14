@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ID">
+  <head>
+    <title>Burung Perkutut Jawa</title>
+    <meta name="description" content="Budidaya Perkutut Jawa" />
+    <style>
+      body {
+        background-color: bisque;
+        font-family: comic sans ms, Helvetica, sans-serif;
+      }
+      #header {
+        background-color: rgb(255, 200, 128);
+        text-align: center;
+        padding: 15px 10px;
+      }
+      #header #title {
+        color: navy;
+        font-weight: bold;
+      }
+      #header blockquote {
+        border-top: 2px dotted black;
+        border-left: 2px dotted black;
+        padding: 10px 5px;
+        background-color: yellow;
+      }
+      .horizontal-list {
+        display: flex;
+        list-style: none;
+        padding: 0px;
+        justify-content: center;
+        gap: 15px;
+      }
+      .gambar {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        align-items: flex-end;
+      }
+      .large-first-letter::first-letter {
+        font-size: 3rem;
+        font-weight: bold;
+        color: navy;
+      }
+      img {
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <h1 id="title">Perkutut Jawa Suara Emas Penghibur Hati</h1>
+      <blockquote>
+        Jikalau aku mendengarkan burung Perkutut menyanyi di pohon ditiup angin
+        yang sepoi-sepoi bukan lagi aku mendengarkan burung Perkutut Aku
+        mendengarkan Indonesia <br />
+        <span id="soekarno">Soekarno - President RI I</span>
+      </blockquote>
+    </div>
+    <div>
+      <ul class="horizontal-list">
+        <li><a href="#profil">Profil</a></li>
+        <li><a href="#berternak">Budidaya</a></li>
+        <li><a href="#harga">Harga</a></li>
+      </ul>
+    </div>
+    <div class="gambar">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRx9BWxx_pwGmj9zof9fPSDxtg04JwG3z0uA&usqp=CAU" alt="Burung Perkutut Jawa" />
+      <img src="https://www.jalaksuren.net/wp-content/uploads/2017/09/Ciri-Khas-Burung-Perkutut-Lomba-Yang-Bagus-dan-Berkualitas.jpg"  alt="Burung Suara Emas" />
+    </div>
+    <div class="isi">
+      <p class="large-first-letter">
+        Burung <span class="jawa">Perkutut Jawa</span> dengan nama latin
+        <i>Geopelia striata</i> bukan hanya burung yang mampu bersuara, akan
+        tetapi burung ini mempunyai beragam keunikan yang tidak dimiliki oleh
+        burung lainnya. Bagi sebagian pemelihara burung, dengan hanya melihat
+        perkutut, sudah bisa memastikan bagaimana suara yang akan dihasilkan.
+        Salah satu kebiasaan dari burung ini adalah terbang dan bertengger di
+        kebun atau ladang. Selain itu, mereka juga sering mencari makan di jalan
+        yang jarang dilintasi oleh manusia
+      </p>
+      <p>
+        Perkutut Jawa hidup berpasangan atau kelompok kecil. Perkutut jawa makan
+        di permukaan tanah. Kadang mereka berkumpul untuk minum di sumber air.
+        Sarangnya berbentuk datar tipis dan terbuat dari ranting-ranting. Telur
+        berwarna putih, jumlah 2 butir. Perkutut jawa berbiak pada bulan
+        Januari-September.
+      </p>
+    </div>
+    <div id="profil">
+      <h3>Profil Perkutut Jawa</h3>
+      <a name="profil" />
+      <ul>
+        <li>
+          Burung perkutut jawa (Geopelia striata) atau dikenal juga sebagai
+          perkutut lokal mempunyai tubuh ramping panjang berukuran sedang,
+          sekitar 20-25 cm, ukuran ekor pendek dengan kepala membulat
+        </li>
+        <li>
+          Burung pemakan biji-bijian ini biasanya dipelihara oleh orang Jawa
+          yang mempunyai sebagai burung kicauan karena suaranya yang khas dan
+          dianggap membawa keberuntungan
+        </li>
+        <li>
+          Burung dengan nama latin Geopelia striata bukan hanya burung yang
+          mampu bersuara, akan tetapi burung ini mempunyai beragam keunikan yang
+          tidak dimiliki oleh burung lainnya.
+        </li>
+        <li>
+          Burung perkutut di alam memakan rerumputan, benih gulma dan serangga.
+          Sehingga, dimungkinkan di alam mempunyai manfaat sebagai pengontrol
+          alami gulma dan serangga.
+        </li>
+      </ul>
+    </div>
+    <div id="beternak">
+      <h3>Cara Berternak Perkutut Jawa</h3>
+      <a name="berternak" />
+      <ol>
+        <li>
+          <h4>Pemilihan Bibit</h4>
+          <p>
+            Bibit atau indukan burung perkutut yang akan dibudidayakan haruslah
+            telah berumur ideal yaitu minimal berumur 4 bulan dan sebaiknya
+            betina lebih tua dari jantan. Selain itu pilihlah bibit yang baik
+            agar hasilnya juga baik, berikut ciri-ciri indukan perkutut yang
+            baik
+          </p>
+        </li>
+        <li>
+          <h4>Persiapan Kandang Budidaya</h4>
+          <p>
+            Kandang yang digunakan untuk budidaya biasanya adalah kandang dengan
+            ukuran tinggi bervariasi antara 45-180 cm, lebar 60 cm, panjang
+            antara 100-180 cm, lantainya terbuat dari pasir atau tanah dan
+            ataonya berupa asbes atau genting.
+          </p>
+        </li>
+        <li>
+          <h4>Proses Perjodohan</h4>
+          <p>
+            Untuk menjodohkan burung perkutut ini, pertama masukkan perkutut
+            yang akan dijodohkan ke dalam kandang ternak pada saat sore hari.
+            Nemun perlu diperhatikan sebelum dimasukkan ke dalam kandang ternak
+            kedua perkutut yang akan dijodohkan terlebih dahulu diberikan kacang
+            hijau lunak, minyak ikan, vitamin E dan badannya dibasahi sedikit
+          </p>
+        </li>
+        <li>
+          <h4>Tahap Pemeliharaan Anakan</h4>
+          <p>
+            Piyik atau anakan burung yang baru menetas, sebaiknya dipisahkan
+            terlebih dahulu dari induknya jika sudah berumur 1-1,5 bulan. Pada
+            usia tersebut, piyik biasanya sudah bisa makan sendiri. Tempatkan
+            piyik dalam sangkar yang memiliki ukuran sekitar 50 cm x 70 cm x 50
+            cm dengan dalam satu sangkar diletakkan 8 sampai 10 ekor piyik
+            burung perkutut
+          </p>
+        </li>
+      </ol>
+    </div>
+    <div class="koleksi">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATnPmGF83e3oKeqmadLpUd-jx-ZheRONbTQ&usqp=CAU" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMjYAW0OtYDe5m6H_-p1vC24aWk4acZ9Deg&usqp=CAU" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNMkRq-w3zrprbElJmJ6jlfaUcWOypqM2aDA&usqp=CAU" />
+      <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQUFBgVFRUYGBgaGhsbGBsaGhobGBoYGBgaGRoZGhobIC0kGyApIBgYJTclKS4wNDQ0GiM5PzkyPi0yNDABCwsLEA8QHhISHjIpJCkyNTI1MjI1MjI1NTIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBKwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgABB//EADsQAAIBAwMCBAUCBQMDBAMAAAECEQADIQQSMQVBEyJRYQYycYGRFKEVQrHB0VJi8CNy4TOSovEWU3P/xAAaAQADAQEBAQAAAAAAAAAAAAACAwQBAAUG/8QAKxEAAgICAgEDAwMFAQAAAAAAAQIAEQMhEjEEEyJBUWFxMoGhBRSRscHw/9oADAMBAAIRAxEAPwCu1airlcii7mmI7Ut1IIrzOAWdxJMtuPNKNfB4ouwpbBoj+HAmiJsRgx1FvTbRHatNpEaK80ehA7U0S3tHFQPV3AP2gGoSBms3r8NjNPup3DShLUmgTJuDRMGtWTGa8ZoxTTwSKXakbM0fIM1TqlaaiOasOppY1yWqb3DTGUKNTT1J6m9NC2mjNcWmvVXFLiSCTDVviM0FfvTUfCdjAqbdHugTEinqpmEmX6KzuzTzT2YFLdBhY701V/LTlA+YIU/EtkRVNlRNCG8c1do2zQtR6m8THmmt15qH2mvdO2KH1gNIZDWptyf6oUWjAis0tw76d6a/xSChJ3NBqFtpgwqCaUCrvEgVTe1AAqssqpU6rMtBVK9TqSjE0g1nUe1Kme5cOJqJcTs3JYQE213qKx8wrP8AU9Wr4nNJdVbuKpzSnQvca5Ek5zVboxWmhogMebQKC1GoCmtFpumbgCa7U/D6tFJSl3U5lEzNlGufKMVedC6ZradO6IqDiiNZ0obcitcMRYiygImG0t8kxTJZParl6XsYmMTTa1pQRMVNu+SxAQjRgei0nciivCHpRa2oFdAq/D5KsI3jUhqbmKS6yj7pgwaCvoW4rsmaXgiDWRFGac5oQqw7VW1xh2rkyWIVgiabSOKI1V8BazOk1rAiactqgy+1CMfK5K5oxPr9WCar0RzS3qVtg5K8TTDo9ozLVhxACHrjHQtz2pT1LQzWksICKF6iFitTDW4stuYa7p9hzXioWorqikmAKJ6doCeea5gTC6G4vXSGidNpCxgCndzpkUZodGOKYmMHU4staivQ9P2uCRWntaZSteDTgCqvFK4p4HCIZol6potssopSHdsAGtRqgWHFL9LpwGOKmyAk6jMbAdxN4TjkVbpGaYpr1G1C45NLdGjBq1V4iNcWLj/TAxmq9ccVZbQxVD22uOF4mtFtqIVOR1Ee4l4FPNDbgcU20nSrYzCzHaCatvaVRAH9KNvByEWDGNjA+Ytu3IpfqZbApndQE+tVtbA4qVMRY+74ij7Yl/RetGae2orzVXAnNJT1WX2iqfUC6EA2Y11lsMIFC9J6ZDTHemGgTeM050WmANJzFmqGtgxj0/RiBijLmkWrtEMVfqRAogg47jIDbUKa7UgEUHqb8Go29RNIbMv6Z1Si9Z9qssWYGKp1GqAqNrWj1pf6tCCVlt5IoTZXup1gIOaC/We9amCuoXAmE9R02ZFCpYNEX9VuqoXD2ql1RmuAMtSu7pKimlB7UVbfdxULjgYnNYzKg5fE0ZCdCUXtH6YNLm3q0EyKalzE9qgm1jmkZ8oI5A1Oa+jIWrCkZqzwwowatuwIgUYmjW4tHj5OtDuaik6kNHqgcVbrtLuWRSnV6d7RlZjvRVnXlhmaYvkBF45O4J0YnbRk3CPSm2m0uwSaJ0dgbix71LqN4KsVqmsZdv2nEloDc1MkqM0XbXaJqrplkfMan1O5tUxScOb2FyYQ8bJXKjUJtagNiplBOazug1sHNe63qrLwMUS+aOiNxB+s0hRQKT6ptpxQNnqjtirGO4yaDyfMFUohqZcMjOa80+l80xRWms4q9HVTXJkJALGhCbITqX27J74onSaYSzfNtjaoMSTgsT2Akfg0Dc1W4hVOT/iZqzTXHVYRlQzDb4JPOYVuYz24HvXreKVY2ux9YeNTswXW6a5b1iXbdyLfhlXtYLFhuhhweTzV9rUXHjehGD27xjIoXqPWLiyBaJBnacZCxJ9hzS218TP4nhqm3dgm3A95z6V6ByKvc6jeoQuoiZwSSYPInNevfxINC9X2sUuB5NyVIIghl9R7ifxVdu00e1eB5COMjUdE3/mGqBhuK+qM7zE0s6fYZXlhWquMoGQKWOsnAxW4lobMauJY86VeAwab2dUJxWLfXbKu0/U25FdlYqIlsZB1PpOh1MVdqrwjmsRpetHvRN/rQIiaWM447ncTCOoXs4oTxyKXfrQ55qd64IxXnrjLuTCAMG6p1EgHOaz1vrFwHmoda1R3QO9UaLpz3M9q9HFhobi2JuND1RmHNR/VXKv0/wAOsSCacp0XFVLiMNc3EVJ2mfbmptrAo96FbXBW/wCRUbi768n1iBUlqNtBeHNX3bS3BjmlmkskDk4opNRs5705D7afqFcEvM1vyn7GvNO/emN+0L6/85pe1vapHpUfkYwtV0eoxshbuMRa8RRtNH6a/wCGINKujak5FNXYH5hXq4VC4wy6gKxEA12uVjA4qi3cUCp6rRBfMBigJ84FeXnd3yb7EwmOrFwkcUv6lck5psjBU+1JdTZa4SYP3qvylYIou/rNV+MA/iLLgGrk1DOM1SlgAwRmiQu01AzCuIntDz78fjQudZ02a81dkmmlqxIEVc9pVEmmJhyE2dCeMQPiZ79MyjipWLhB700uatNpwKARpaYomwn43B41DU1B4qSmcmqWKjH7DJP0jtzntRdhgAHAyV3j/utnzKPSV7U/D/T8jm8hoShMJOzqTuWtqFiDHywCqmdzLkuNo+XE4MGif1W0AhGUAeaQoiScttJIHeYKxBBGak+ogAr5lxt7yrKGTGDuDKxiQZYwfUG3eDEyFB/lcMCp3SRtPla2SMwTnMbua+ixY1QUvUM6FRJ19GYh1LAQZng/SJH3FK+guDqCCP5CBPrg/wBKedU1iKDuIWfKNylZPtKgN9j9zWd6bejVJJ/m54kNIih8muJmKN3NgnSVYq7DKncPwVz9mNddtkSBTA6gBaETzEkV5fKxqJshom2MWyKNs6MsJiKvdI7URYvACKUcijTGpSzDjMx1Xp/A7zXafS7RWj1VsNmhv08jilv5FniBcAZPbURrZYNk1cNGW70e9qOaL0qKRRqFJozVYHuZy5pXST2oTUa0ge9a7VICOKQarRgnimk403HniBEOi0jX7knArddN6eqgClOg0oQyBTkaoKvvVCZUIuTMLMaJbUYqe1aQnWk+1e/rP91cPLT6wTji79ID2/Jq4r4YpRrupMjkBGI7Gh9Z1V2TKkGoXxBxdVM4auppLetxXviLcrLdM1RYGZmj31QTAkY5rk8ckEMYKY+U0SXimARQd+6TSWzfuvkAxTC25jzduajyo10TYHUYcDA1Uu0evFtwD3p5qbxdfKKy9+2rncpyK1PRfMmaswOHX0+ol65alek1XiAocEVn9cj2764Own9/SitZauW7xZPlnP1ps8XVBIz3rlQdN2IDC4QlwBJPpS5+pLEczwKn1DUBLce1YpuoHfuggTE0b5S2l+JlVH94ksWHap2NSGgfmaVXHfDKcdx61O/qrZ2wPN3qRsAO4aE3NrpryKuTS3rOuBG1aTaZ7txgqAn7Y+5pp+hIRihDusqY/wBakSonAx+5q84myAKND6ygYwTqDabROcsY5PHYcn7Y+5FFWCFVbhRijGNwiVWcPA5BBznEUXcuFLyOYKXVFsR/ITLITPYmV+sUHd0b25thWe3cYsCph7T/ADbhPKyAYHHvVePCqDQlAQCWEpbKq1wEmDbciFaZjzqcmY5jmp3rrbwu0K2TBwGDAq208HBIIj/NRtLecbbttWUiAysvnPq1tojjsTXWW8NSPEMiYG44B/lhxI+0A04CFct1dp7ZCLJUqEP+pcblgnDQ3AbncRPEA37rAGSHU8kAZ3RJXcdskgzbbytHdwRTXVJvtyRkAMf5iRxuHHmB2t6+WO9ItQ7by64f+ZQwG4GASAfK88q4gMDtYFgQXLqJfYgWuZVJlY/MR27hh/2vtA7TSt48ZD23AgyfqM/aitXG6JhRnaIj6qpyg7eVwO0KRtofRRcvIJMbu85wciSf60rOfbOxAE0ZqtKxuESac2bW0UJpLapV2s1QC8wa84MqLZmZFC5NdSnX3BBgUt09xi0EUx01xWHND6u4itA5qLKq5Ty+JmSjDhbkYqrfE12m1QOJr1wpMzXXzUFBXxEgb3Ab9ssZq+wm0VK9dUUC+qkxP4oE5rphGemW/TDHK+tculUiav0einJijmdEIXGapbDyFmUjx2A2Yiu2yOBVDWWPatBdtgntUm0wHah9BgKEpXxARZMzjMo5Gao/Ur6Ub1mzkAfml/8AC/8AdUboFNEyDIeBoblraOXMqJnvV7dLDCCB/WmemTxCWIqbuFfZS3y5DdE1CBsbiy30NVGAKpHTQjSwxTx9SFOaT9R1bXDAX61uMtV3ZnLS7jayLSrAAoHqfR2e2WRoxx/alF1LgHlkfenPRNfNvaxMj1r0MTqRTD8TsnlsRXU+f6NrlvUG2xJzW90Gq2DPekfUNKBdNwDM81MavdAiPesy+5gyjYkpKk2I71OZaRFT0utUCDQmmQtEnHp60S9gN5VX71pVyOQq5npknUJfSJdUqT9KSXunJbBQiRNMLTujbIMj+lEap0uBZHYEk8Z3AfXKj80GLG2VSKog9/WGMbNoRbpenBlhRj1qf8Ht2VDsu+SoB92YAkJ3ABkzUddr3IPhxIjbnBIJIAPbBiaK1mrVhuJgx6cCOBXo4sCoBez95TjwqvcNsapd7IgCqgVgBAmSRP8A8f3oLQXgUvFTnxX3LwVJ+nZuaE+HrhewrNbIdV2h/wDWjHcCD/UeoqHRHW1qmtswIvBipK5VxkqG/wBwzB9DVG+o3QEcaB7d624gErh7bjIOdrR2kZmu017xHYbSQsbwcFW2yCCMOh7HBEZpdqNIdPfW9Z2zBR1YnzocwWzDKRIOe4oY6YXw123cKOPKQnlKFTIBn5swY4INFUy4+1yrdtNaDFG8rqF5lSCSomGIiY5pbd018gmflHzS3nHaAW3An0YR70nOvvEbL6IwJkXFk7ABlihEgc8GRMcUXqOoooCq7syoNlzdvFxDwN0QR/tPFFdwJba62ly1tgqeG2iHQgiGCyeCqkg+mOaD1eoIEuB/u28CRBuLMgqe5jEwwIyF93re25KspXAJ48ygCCeR3qnU6vd5pMcz3Hs4HcSYuLyDkVoaotpW90MSIPrjIiOSrFvyo/arNBbY3UCx3JIA4A9gPagyinjaCM4KNE5O0gBh963PwR0sDTPcbLXG8s8hFGOfUz+KTme9CYDxFyjTOwMOwB7fSqNZud4WSMZ7V3VlAuLcVpA8rjsFmNw+k/0prY0ffdXiZ8xYDWppNmpRYRUWMknsBn/xQmpmd5HA4/tTHU2IBzFVom+3P2pCswNHdxZFfMS2tUS0jB9KYdODtJfjsKo0+ki6OI9O/wC1MbiKrYxHaq/H4jRNfaKX9Mv1PTw1tgOYr59o795bpWGMEjv2NfSrF2RNL3t27blsCfXmapzOijrUbiy8NztD+oZVheR3NLuqG7buA3OYxBrRI7hJBHtmkF7SXb7b8MN+w5G4GJ49PekHMHAVRsbh5cuU0TqQ0vVyzgcVprdwsASaD0PQ7dvzSC0cGpXLoVSGcCP6U58rItkbPxqPTK70oMF6gSxlaB8Y+tW6bW+IxC5H9qN/h4PYV5gf3GxMfx+BoyltTdtqu0AnvmlV/wDVNc8Ty/ST+xrR3bc570EyNPf6VV/dYx7SpImAioNp+oo+HEN3qy7dCjdGKrfQ+b5c171K0zKEGKEMD7lFSfIQBqRe+tziBU+n9P8AMTP70pbSOjgDtRdq46MQbgWewyaML6hGifxFrZFARipR3a3AJHt3od9AFMEUvtWVtubgdyTk8Cf8V7qetqvLSfRQWamt4rt21RyoK6jqzYCjB+1GWtUEBxx834msX/GL10kWbcH1dgo/Ak1fZ6HqLpJvanYP9NtcmOPM3+Kfiw4sJ/Vv8wwwWN/4wNu7ExuZjgCfpzzEUvPUuSOY3EtiAeAB2mBVP8Etojotx5JB3OS26OxGAB9K7U9JutLBVYPEw0CR6TxVeLLjYaM7n8iH6DTnYOCfLwMDcJEfTj7UfbtWxz5mGSTwvuRwv3rJajTa22NoXYv/APd+PpbioXdXeVYV3QckJbtnMZO9irk+5g1pq+xGDIK1HtsNZveF4i+HcBa3zCtPnRTwfUD3NW9R06lYEiCG3zBDDhgR3rFarc2VS47yDvuOsyOCNpYyD71YvUdaxHiQ6+2D/SCaL2/WDzP0jzTdXewrLd86E+VwJdQxkyo5AJOR+Kuu+Ef+rauFTiWVhD9wHXg89xikB1hd5KsFHblmPuewoe7pmYswQS2PQfcd64uv1mx5ruq3LaMHKS3yvGVBMbXX0Pr70l1vUm+VfIWHnUNuUn1XuKosdNuEkM7ZAkE8iYxTWz063bGAJoGyAdTKJiTTdOZ8mSP3+tNLGkiP2kQfyCMfUGi9+3iKM0doOfacn+yiktkNb1NoCR0Gh8QkFiFHJ7Z7CtU7/p7Gy20kiFHpWe1XTmuGPENtFgAAZJPfNNOneHYttKtefgM3vwKUxUe64DlfzDOnaG2lgCdzNO8nkk81ZpiVtgE5Xy/+0kT+BS+3qAVJACA52zkGj7J8u1uDP5xn/nrXl5nLNXQi+c8vb3EKQffgVVadYKrJjBPE+49q9W4EQgmAO8xGe+O9cttg+eDn/GK3x3o6Gj/EU3uM9t6Vee9V6nTGQRUtQD27V2n1IM4M/WcfSnHGOepgvjUuRHVcD94E+9UDQhmLXbgYqPl9PvV2o6kigBfNMTBECDGfTOIqvRkPcJuhdkEgA+WfQ+tPyrjXV2f4mLfxCNFp/Fb0Qfj7URrb62gUtKODJpc/X0tuLblFRiQm39gfSitQ64AghjyPTvUZJxKTjHfz/wAEo7NsZbpdGVXdulm+Zj2HoPeg9XZWCWAYDt7VZqOooqEk+Udh7UK/V7DpANTuxYhgD+8aMzKCLqT0Nu2hkAAn09KM/UH0/alS6m2xPhvJHI71et896Sxb5ihmJ7MZLpnGSwIj96qvXGKnaIP2qvqeuRFDXLiosicgkSY+WrbGvt3Lc2v+qCY3jEH3HavdyeOga1JH7WI50N7gi3LiDdtJPeoanUu9shLfn/3EgfXFElDGfXuYzUg0R/XtUz2pBsfiKCKJmRob7f8AqXCPXbIH+fyaIt6QWxmPd2IA+p7ftT7U6izbOxnUOQWVSRLR6Vl+rWH1rommZCiy1xHO2BIG4xlh8wqnEMj0DofbU2qlWl67a8R1FreF5YkETMYBPvTG9qrdwAhQhB8wgdvpQWj+E9ty3tZVTYd5UkszcyQRAEmAO0U20/SbBBChmgnLTMjH3HvQZ1RTa6M4n7QXSa9HbZbtYmC5j80W/UrFsMC4LKc1YvRXCHwFAfsGkIc9z2qs/CeN2ouWU3EbwoLZ9NzEf0p2NOQ5ATAv3lOo6jbYL4a7yfxRKOxRVUBW+vFMbHwxp1zbcwPfFLuqdIFtXNkhnPlPmnaSJEicYz2p3HiLIjlZKqV/xAIWDlWIxSe7r7ZuIXgLuE/nvQOl+F3t3A1y4zMc8GCfc05Xpq3GlrawMEHkn+9YpHwb/acONdTS674e0+oti5bZUaORGxvqP71juo9Lu2AWZrZUdw2fxRXWNLdSyzG4UsoBtt24VnJIUAuZCjPpQa/DKXGW21x2CA72kyXYiF5gQJ4HpTMjKq8m0P8A3xB+tRSmvVnCiCxMAe9OtGhbEGfShPiX4YFs23tPAMJJBw3KH+2fatDotO7IrOPD2W5uEyApK7iOIO3M+lZj45ACvzMBNXM5qFuFio24xPGZ4nvXjdNuSQWUERMn1pmul2EuzggwUIAZM8cdyc5pu+mLmTbAOCTHJ/FKay5Qd/jUJmFULv8AiJrPTrdpA9wM5Jif5JPtyaM6XetrvKIPEWAC/G31Cnv2p06lkg4FBa/TZV0CkqJn+Yj0gcgn2pWRXQXf+ohyTKW073GDHbvMOoY+QGOD70Ub1t5DmHCLuVRCgjBOOTxRGhdWZmwCFyp4PqJOO1Z+1uvXAyKqqSYAdRERyScz+KUVYKBo3cWCeowZEC7d4IJGY5H9fajbGoG0ttO0GJWYEgRIJn3qu3pVW5FxSSdqkqZUn6gR39au1OrS15FifnYCOH8qDOPlQfmlnCRbN19O5l2ZDW6VlVgCGJydw5DZx29KhpLlwybogopY5AXavuDz7VAXGuAjCE5BBkxEZEccH7Ve93db2EQygb8zuEcqTkg/tRYkokiq+APmddESnV6omFhQhiNsnnuWqm2hVoUgcEZgx9/rTXTNbW2qAgKBEc570vu6S2WNxvKiZ77iOwHqSR+4pnpnRB3DB5ahF5AikgAM8zwSQfpQtsrsMLmRjkT60mt9d1DvvOn2295Xcx8wQmBCSOCAeJ5pulq4ZcDExjueTT/TVu++viKa1OjAev8ASbesKI97wto8qKoLFj7+lILd06MMupuOeVQW5k4IkE4Qkc1sLulDQSDgzgZ+x7VlviHQ2SxZ1eXJCJvklhHmZ+3PE08hOIB3UYrchvuIul9Sc3IFzYMhA8sszhWPafWthoOlKts6rVkWUidq5c5ge0nsBPI4rLaDpD3botiyqgEB3aSqTwd3c+gFbnUak21a1dBZCCoR1HmAwYjke/aaTnZBWrBjGBYhBu/8yhL1vcpRUVIlV/mg92J+Y8Um1XVGR2UMsA4yP81d1XRrqLe+2XRx5EVSu0sY3KQxlcAGQe4pbb+DbxAlkB7gnI+tS+liHudgL+sp/syp4uNiZi5qy6MzOSxgAciJkn17Cp9O6tdtEG27Ke3+YOK+l6n4YsBCUUeUhyBkMR8wzjIxRNn4a0qEXESG+YHc0z9u3oKr/uk2OJiCTPPh7qaauyLjKdwJVyD/ADgeYx2BGfvRllrbodqmZIIBPI+v1H5q+3bRAMjzGIgmWPcirG0ygTuZZ5CsR8pxgGk+qu7UfabKk09w4uaNdsRuDKzR6QFx3pXqGtpcFu2j6ZFg3Ctkguo4TeRx9JNOzaUgERB9Z/czihrtkMrKwSDgSDwefr9a5fJYzgBcW6prlxbbLGxdziARtDsYDT6Aii9TZcpttuysYBcqGwedqyIz3M/3q1wS0eIQSCvqse6kEUUrugJUo0GJgt24GcUaNjJLNv4+wnNskynpNrXW4R7iOn+pk8/05z96I1XREv7XuqXKyQA5UEsRJIEgkBRHmq23rSoAKDPckzn0Bor9U4WcTmJOP/qqfUxgVepqAL3MZ17qFuwwQJqECAB3QgOiyCBtYRctmPmBMbaUdNv2XZjpNQxdvNsYEM+1i2wkwW+o4BradUum8hS5bR8iPDzggTJYADv39Kxmu+A7TXd1q6bOZKkSV7+UhsfvFErY2GjCNk6mxt7XcLcOx9hY2iVLQYhnAmBgjtz3rOfEvW9TYdkt2E2AAtcZiVgniQBtP19aYWuo3bSwLV9xABfb4wYLgS2HPf8AmMTVSdb01sFv0zpmYdWwYgwGmPtTeUH06OpiNP1YuS+q1BZBkWwDtLAysAABoOftzWo6P1DTuf8A12S48MiJYAYSuZlSzcczUtY1vUXFe3pGbdw7K7KCRE7GhQIAqnVdKtl08S2bTBwwuoYbHbcZ+3pU+TKl8WgOSujNbe6Y1xES4TCsrYMFyvBbmD9PWj9fet2dNcuN5VVGk/aAMd5MRWdu6zqFwG3pfCVVABuXWLO3+4ELtB+1LdV0bX6m0lq9qLQRCDG8sbhn5ngDd6AYj3NOXjWoNE7Jl/RzbCFrbKyOflJI2vHZTgeo5/eK86nrtXbbci7keERRcAJY9yW98dqI6J0izb2sbnnQNvtiAJO4ANPpJAP05rPa7omoDNctBYc5Qncjyx8pDYb0xQsAwAIjyAwjdOoC0F8cpumTbS4pu4xiJVRJ4mSKH1XUNKSl1tS6OBItoI2huUYmZA/tS3TdNe4wS5ogIiXtXUhf9xU7sD+1HdP+HWZmC2NRbUHyF2VNwnJKzjj070j0VTYEEY7OiB+YZrev23R7Ybeg2EeclUAENuIAme4J7iKW2+nW7kXbIx8220Qdjg5DWyZ80cjH0p7c6XplsNZvgDccNv8AOSDuGRE8cRXzi/qS1027FsrnaAm/cwB5JYlgO9Hw5dWIPphSQf4m86Vav3rlprg2r4q+VJIQA/zsBnifSnGn1SXLjyAEIGGUqxI8qgAieB+1YXorat0ZVueAgwDBJZlMN8pk/XitL0q0UA8Qh8/PvB3E5ziBHp2rmVegPzBdFAsTQKN3A2j6dqX9RbwiABPf2g8gn0pitxSdok/9sEAe57VnvibUXLVqVtqRlS67WZSfTcCF5PbtSm4/pB3EJjJNyFzrlsOVWeJzGPae9Ca3rLHy8jj2qC9He4qsqLLbfMjAqJGSQeO/FS1GkFm2rXbyJnaQtrxXYjuNr4kDk8RSAhJ4iUeg5Fgagi3W3F2JPqp7fY8Vp+lawhoKhVZZmfLIBie88ce1ZbpnUbGo1BW5bUWohQ5O/eP5iq4G49u3rTzrFu1YKt46IpgeG7NhRzsABwfcUX9u67B3FLha/rDH6hbZmJeBujaCA0xMA/v7TQut19i4g8S27G2CbVtWmXbEeUyxPq1U9K0yE3Gt3bDlwQJ3bhMSNvbGJFVr0i7bUtcZGAUmADu34gAlvqZogMoF9zFtD1/medC1mouXEQ6Z0XJZz8u1QQqBYx549Diat+J+qMwQ2bqbVB3rEu7EgeQFcj6H1qF+5euW0Ct4exfMqgqz5MzGSB6Dmayuv8RDva26qCJ3Iy/MY4YQSfuaFPdoD8/P+5xJLg/zHvStKL13cC1tBAdSYG/O0tOVmDx7UzTp1z/9g7929frSrod3/qqwRmDAeZSF2sO7DE/QH7Gtffu30YqEVgOG9ZzPye9Ld6NGp6WP+oeRj1d/kRDptfpLL7bJ3bsQHJU/QTzRr9et2FBuW2AjAgnilXTvhhFY7lViPlIkEe+Kdaa0yr4bFWA7tk/TNWBUY2RKMnjcR2D+8Qaz4/XItWhu7T61puj9W8WwHdSjRkcgn29qz3VbmmthoVQ/YgDBpZoPi42oVvP9gP6Ux8KkaG5Cwm7cFllbjKfUAH9mFA7LwcTdZ1GQALYJ9j5aXaX4ns3HG7ensBAp/e1A2zat7x6loqT0GG9QJ692FygMj8fWgV1fhtC2skZKqe1M7F5bgkKdsZyDn0qq4wDAAZ+lLZK7Aj8eTEv6lv8AepbbvuV3qgJ9IMx96ItXGbm2YHqY/ahUUzO4iqlsuCzK5JPuaMYlKjVRbZcRJAUj97hb6tAwUjNKerLbW74m5gzIUPmBEEQCFPDD1pf1vX/pvMVJZuD6Gsq63LxLtu3dv/FH6KqNA3AU7sQy91jqGlYLbusyDjeFJP1iiR8QXNWPDusqv2MQKG6f0lrjRcO2PU80N1To58SbcmPSm8mqjOLAfmfUvg3QM1qbt6ROFkRA9KZfF3Q/GteQjy5H1r5d0+4l9RbuvctsvBRiPvFONFZ1dgBl1zOk/KwDYoTxohqszGQnZOoT067etApsJjvRdzq3hr/1LeTxA5qrVdZMFQuTyeJNK9d1B1Ul4f0BqRfa1Xf/ACAq1oGD9V1BuKXW2A0AbgPNA4E0j0uq1dhtylhOIbIj2BrRdF1dxpmAD7cUybp9l2LEl3I+w+1WYkNVe/vCVgupZ0u9buWpC7Xddrkcn0iKZXwwUZc+vLH0pRYui0dotsAMyRifaqLvW7rEqGBHEKKWzMpPIn9pnIXuGW+mW9+65ueZwwBUbu8H2qwdJtpJVFMqRhVUlT2JCz+9A3OoeGu0gkxIJ9a8t9YIUBmliO3ArfV1qbyHxGmk6buWN+wD5V221iPTbmqdToZ3qTuUfMCAoLdmU+tR02qYqJPmPrVt60SpDme4jFI45QeQNwlBJ0Io6f1RrRCDicg5/rT8XtywAoBGYx96z+osrvwM+tMtJqTERNTDMGyUaijkN1F+rtuoa3bCoHMsy8nEQcUBqOkXwioFDLMzBkc8EZHJrQXGYHeYEcUsf4juWnwPEHdTAx3gxirMaDlca3kO6+nevtBP/wAY05G4pddtp+e4AVaMFSqgn7mkms+H7ty5Ju2eBl7hB44jb2rcnqD3YK2gikZ84J+mKCvIhbz21cdwf81VzF/WLTMyai/o3w1p7ID3br3HGYQhUH5yf+YpnorqXLr2zbGyFKSZwf7zWZ6pd0tpxaUsu5vm3Rtn17e0Vs+n6VWRWS4rDGRzgR/muZ6+0c+RSuxuWaghWVLa7EUElxAhsDvgz3oLX6nRXAbd4qc7syoDRAYfmmus0YZQCRPvxWK1/wAHrcub/EYZziRI9z2qchS3I/xcVjUvqMdP0/SqV2XQyjsWUrMepHFEqi/yvjtXDpaW1VfmBiYQZI780xt9FWBFxx7bVxSW4k7EeUA7/wByGt6lMwkUp/VKxO4wTXV1V5BxOpwGoJrOgWrynzEH1FCdL+F7aMSHkjsc11dRY7PZmcRH56OjRMfYUyTSKix2jP0rq6jKgRioJRpbtu0Ni4E8VbduTmurqGge4nKKMHuX4zNU6O8xY+aurq11AAiiBKetXwYW4oYUpN4EgIQAOK6urV2dzfiW3bBMOzcelG9O6haggEE+9eV1YygXODGVaAoLjMwqX6xGcqtdXV5oHqZvdEliTCUCE5obqTrxg11dV/EcTNXqW9MRgvlX6VZplvAk7QPQ11dR41FQj1Lrtq4wO9qA06XA8Aj2xXV1ZnUAQUhFzRXC+65BxQ36XzHgV1dS0UVL1UA6gWrd7dwHJAplobzXTmQBXV1Jz66nq+uww86FxmdKJq3YEE11dSFwoDoT5R2LMbgd7qafLg13TrduW3KIP4rq6q8PcbiYjqKbPT3t3WZLu1CZ29hTFnt/6pNeV1a7HcN2JG4r1vw6l4ySB/Wn3S7FvTWwqn8murq8w+Rk5VcUvUG6n1YHg96lpuqjaFYz7V1dXrJ+mejgUcY2LoVBAUe9UfxhBjeK9rqh8pjYqSeo3Iz/2Q==" />
+    </div>
+    <div class="promo">
+      <h2>
+        Tertarik untuk budidaya / memelihara Perkutut Jawa?, <br />Penawaran
+        Khusus Bagi Anda
+      </h2>
+      <h3>
+        Harga 1 Ekor Perkutut Remaja <del>Rp. 75.000</del> <br />
+        Sekarang cukup <strong>Rp. 50.000</strong> saja!
+        <br />
+        <a name="harga" />
+        Berminat hubung kami di <span id="Wa">WA - 012455588222</span>
+      </h3>
+      <h4>Kami Hadir juga di aplikasi eCommerce:</h4>
+      <ol>
+        <li><a href="tokopedia.com">tokopedia</a></li>
+        <li><a href="bukakapak.com">Bukalapak</a></li>
+        <li><a href="shopee.com">shopee</a></li>
+      </ol>
+    </div>
+  </body>
+</html>
